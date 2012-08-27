@@ -1,0 +1,5 @@
+== Heroku-mongoid-rails3-mongoHQ-template
+
+Config a rail3 app using heroku, thin, twitter-bootstrap, mongoid and mongoHQ add on with a simple post model.
+
+
